@@ -1,0 +1,12 @@
+{
+    "name": "sammy/jotapi",
+    "authors": [
+        {
+            "name": "barsammsm",
+            "email": "barsamms@gmail.com"
+        }
+    ],
+    "require": {
+	"jotform/jotform-api-php": "dev-master"
+	}
+}

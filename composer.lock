@@ -1,0 +1,51 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "9ddb766a0de3c8b93fffa8c313b9f6a5",
+    "content-hash": "2fe198552ae32acadf737217415da9ad",
+    "packages": [
+        {
+            "name": "jotform/jotform-api-php",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/jotform/jotform-api-php.git",
+                "reference": "e20e22530c0740f3e685c955861c27925bb15258"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/jotform/jotform-api-php/zipball/e20e22530c0740f3e685c955861c27925bb15258",
+                "reference": "e20e22530c0740f3e685c955861c27925bb15258",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.0"
+            },
+            "type": "library",
+            "autoload": {
+                "classmap": [
+                    "JotForm.php"
+                ]
+            },
+            "notification-url": "http://packagist.org/downloads/",
+            "license": [
+                "GPL-3.0+"
+            ],
+            "homepage": "http://api.jotform.com",
+            "time": "2014-08-30 08:41:20"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "jotform/jotform-api-php": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
